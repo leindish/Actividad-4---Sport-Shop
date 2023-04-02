@@ -1,0 +1,173 @@
+[
+    {
+        "id": "01-Shirts",
+        "titulo": "Camisa 1",
+        "imagen": "./img/shirts/01shirt.jpg",
+        "categoria": {
+            "id": "camisas",
+            "name": "Camisas"
+        },
+        "precio": 150000
+    },
+
+    {
+        "id": "02-Shirts",
+        "titulo": "Camisa 2",
+        "imagen": "./img/shirts/02shirt.jpg",
+        "categoria": {
+            "id": "camisas",
+            "name": "camisas"
+            },
+        "precio": 150000
+    },
+    {
+        "id": "03-Shirts",
+        "titulo": "Camisa 3",
+        "imagen": "./img/shirts/03shirt.jpg",
+        "categoria": {
+            "id": "camisas",
+            "name": "Camisas"
+            },
+        "precio": 150000
+    },
+    {
+        "id": "04-Shirts",
+        "titulo": "Camisa 4",
+        "imagen": "./img/shirts/04shirt.jpg",
+        "categoria": {
+            "id": "camisas",
+            "name": "Camisas"
+            },
+        "precio": 150000
+    },
+    {
+        "id": "05-Shirts",
+        "titulo": "Camisa 5",
+        "imagen": "./img/shirts/05shirt.jpg",
+        "categoria": {
+            "id": "camisas",
+            "name": "Camisas"
+            },
+        "precio": 150000
+    },
+    {
+        "id": "06-Shirts",
+        "titulo": "Camisa 6",
+        "imagen": "./img/shirts/06shirt.jpg",
+        "categoria": {
+            "id": "camisas",
+            "name": "Camisas"
+            },
+        "precio": 150000
+    },
+    {
+        "id": "01-Tennis",
+        "titulo": "Tennis 1",
+        "imagen": "./img/Tennis/01tennis.jpg",
+        "categoria": {
+            "id": "tenis",
+            "name": "Tennis"
+            },
+        "precio": 240000
+    },
+    {
+        "id": "02-Tennis",
+        "titulo": "Tennis 2",
+        "imagen": "./img/Tennis/02tennis.jpg",
+        "categoria": {
+            "id": "tenis",
+            "name": "Tennis"
+            },
+        "precio": 260000
+    },
+    {
+        "id": "03-Tennis",
+        "titulo": "Tennis 3",
+        "imagen": "./img/Tennis/03tennis.jpg",
+        "categoria": {
+            "id": "tenis",
+            "name": "Tennis"
+            },
+        "precio": 180000
+    },
+    {
+        "id": "04-Tennis",
+        "titulo": "Tennis 4",
+        "imagen": "./img/Tennis/04tennis.jpg",
+        "categoria": {
+            "id": "tenis",
+            "name": "Tennis"
+            },
+        "precio": 200000
+    },
+    {
+        "id": "05-Tennis",
+        "titulo": "Tennis 5",
+        "imagen": "./img/Tennis/05tennis.jpg",
+        "categoria": {
+            "id": "tenis",
+            "name": "Tennis"
+            },
+        "precio": 250000
+    },
+    {
+        "id": "01-Balls",
+        "titulo": "Balón 1",
+        "imagen": "./img/balls/01ball.jpg",
+        "categoria": {
+            "id": "balon",
+            "name": "Balones"
+            },
+        "precio": 170000
+    },
+    {
+        "id": "02-Balls",
+        "name": "Balón 2",
+        "imagen": "./img/balls/02ball.jpg",
+        "categoria": {
+            "id": "balon",
+            "name": "Balones"
+            },
+        "precio": 175000
+    },
+    {
+        "id": "03-Balls",
+        "titulo": "Balón 3",
+        "imagen": "./img/balls/03ball.jpg",
+        "categoria": {
+            "id": "balon",
+            "name": "Balones"
+        },
+        "precio": 160000
+    },
+    {
+        "id": "04-Balls",
+        "titulo": "Balón 4",
+        "imagen": "./img/balls/04ball.jpg",
+        "categoria": {
+            "id": "balon",
+            "name": "Balones"
+            },
+        "precio": 150000
+    },
+    {
+        "id": "05-Balls",
+        "titulo": "Balón 5",
+        "imagen": "./img/balls/05ball.jpg",
+        "categoria": {
+            "id": "balon",
+            "name": "Balones"
+            },
+        "precio": 140000
+    },
+    {
+        "id": "06-Balls",
+        "titulo": "Balón 6",
+        "imagen": "./img/balls/06ball.jpg",
+        "categoria": {
+            "id": "balon",
+            "name": "Balones"
+            },
+        "precio": 70000
+    }
+]
